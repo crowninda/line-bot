@@ -1,8 +1,6 @@
 helloworld
 today is 08/30/2019
 
-<<<<<<< HEAD
-up233!!!!!
-=======
+
 up3
->>>>>>> be14d40be21f8b81e4b52f340839cfb2ab6f56e0
+
