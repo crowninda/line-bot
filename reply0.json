@@ -1,0 +1,36 @@
+[
+{
+  "type": "text",
+  "text": "1.你是不是也想蓋電廠，你的動機與目標是?\nA.為了減少空氣汙染與碳排，也可以減少核廢料產生\nB.想要種電，也可以賣電\nC.沒想太多，正好手上有筆錢可以使用",
+  "quickReply": {
+    "items": [
+      {
+        "type": "action",
+        
+        "action": {
+          "type": "message",
+          "label": "A",
+          "text": "A"
+        }
+      },
+      {
+        "type": "action",
+        
+        "action": {
+          "type": "message",
+          "label": "B",
+          "text": "B"
+        }
+      },
+      {
+        "type": "action",
+        "action": {
+          "type": "message",
+          "label": "C",
+          "text": "C"
+        }
+      }
+    ]
+  }
+}
+]
